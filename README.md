@@ -21,7 +21,7 @@
 
 ### _*Skills*_
 
-#### _BackEnd_
+#### ✨_BackEnd_✨
 
 [![Java](https://img.shields.io/badge/Java-05959F?style=flat-square&logo=Java&logoColor=white)](https://github.com/Woongi9/Algorythm_)
 [![Spring](https://img.shields.io/badge/Spring-05959F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
