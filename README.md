@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=진웅%20Repository&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=진웅%20Git&fontSize=90)
 
 
 ## 방문해주셔서 감사합니다.
