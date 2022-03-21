@@ -47,6 +47,7 @@
 #### Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-0F5F90?style=flat-square&logo=Python&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-0F5F90?style=flat-square&logo=Matplotlib&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![Pandas](https://img.shields.io/badge/Pandas-0F5F90?style=flat-square&logo=Pandas&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-0F5F90?style=flat-square&logo=Tensorflow&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![PyTorch](https://img.shields.io/badge/PyTorch-0F5F90?style=flat-square&logo=PyTorch&logoColor=white)](https://github.com/Woongi9/machine_translation)
