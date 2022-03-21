@@ -62,4 +62,6 @@
 #### etc.
 [![RasberryPi](https://img.shields.io/badge/RasberryPi-9F9590?style=flat-square&logo=RasberryPi&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![C](https://img.shields.io/badge/C-9F9590?style=flat-square&logo=C&logoColor=white)]
+(https://github.com/Woongi9)
 [![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)]
+(https://github.com/Woongi9)
