@@ -1,6 +1,9 @@
-## 안녕하세요. 방문해주셔서 감사합니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=진웅%20Repository&fontSize=90)
 
-### _공부중인 개발자입니다._
+
+## 방문해주셔서 감사합니다.
+
+### _백엔드를 공부중인 개발자입니다._
 
 >컴퓨터 공학을 전공하였고, 백엔드 엔지니어가 되기위해
 >인프런에서 강의를 들으며 Spring 공부를 진행중에 있습니다.
@@ -10,14 +13,50 @@
 
 #### Interests
 
-- BackEnd
+- ✨BackEnd✨
 - FrontEnd
 - Machine Learning
 
 
-#### _*Skill*_
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Java</title><path d="M8.851 18.56s-.917.534.653.714c1.902.218 2.874.187 4.969-.211 0 0 .552.346 1.321.646-4.699 2.013-10.633-.118-6.943-1.149M8.276 15.933s-1.028.761.542.924c2.032.209 3.636.227 6.413-.308 0 0 .384.389.987.602-5.679 1.661-12.007.13-7.942-1.218M13.116 11.475c1.158 1.333-.304 2.533-.304 2.533s2.939-1.518 1.589-3.418c-1.261-1.772-2.228-2.652 3.007-5.688 0-.001-8.216 2.051-4.292 6.573M19.33 20.504s.679.559-.747.991c-2.712.822-11.288 1.069-13.669.033-.856-.373.75-.89 1.254-.998.527-.114.828-.093.828-.093-.953-.671-6.156 1.317-2.643 1.887 9.58 1.553 17.462-.7 14.977-1.82M9.292 13.21s-4.362 1.036-1.544 1.412c1.189.159 3.561.123 5.77-.062 1.806-.152 3.618-.477 3.618-.477s-.637.272-1.098.587c-4.429 1.165-12.986.623-10.522-.568 2.082-1.006 3.776-.892 3.776-.892M17.116 17.584c4.503-2.34 2.421-4.589.968-4.285-.355.074-.515.138-.515.138s.132-.207.385-.297c2.875-1.011 5.086 2.981-.928 4.562 0-.001.07-.062.09-.118M14.401 0s2.494 2.494-2.365 6.33c-3.896 3.077-.888 4.832-.001 6.836-2.274-2.053-3.943-3.858-2.824-5.539 1.644-2.469 6.197-3.665 5.19-7.627M9.734 23.924c4.322.277 10.959-.153 11.116-2.198 0 0-.302.775-3.572 1.391-3.688.694-8.239.613-10.937.168 0-.001.553.457 3.393.639"/></svg>
+### _*Skills*_
+
+#### _BackEnd_
+
+[![Java](https://img.shields.io/badge/Java-05959F?style=flat-square&logo=Java&logoColor=white)](https://github.com/Woongi9/Algorythm_)
+[![Spring](https://img.shields.io/badge/Spring-05959F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![MySQL](https://img.shields.io/badge/MySQL-05959F?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![H2](https://img.shields.io/badge/H2-05959F?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
 
 
+#### _FrontEnd_
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F5909F?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![HTML](https://img.shields.io/badge/HTML-F5909F?style=flat-square&logo=HTML&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![CSS](https://img.shields.io/badge/CSS-F5909F?style=flat-square&logo=CSS&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-F5909F?style=flat-square&logo=BOOTSTRAP&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![THYMELEAF](https://img.shields.io/badge/THYMELEAF-F5909F?style=flat-square&logo=THYMELEAF&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![JSON](https://img.shields.io/badge/JSON-F5909F?style=flat-square&logo=JSON&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![React](https://img.shields.io/badge/React-F5909F?style=flat-square&logo=React&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![jQuery](https://img.shields.io/badge/jQuery-F5909F?style=flat-square&logo=jQuery&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![PHP](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=PHP&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+
+
+#### Machine Learning
+
+[![Python](https://img.shields.io/badge/Python-0F5F90?style=flat-square&logo=Python&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+[![Pandas](https://img.shields.io/badge/Pandas-0F5F90?style=flat-square&logo=Pandas&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-0F5F90?style=flat-square&logo=Tensorflow&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0F5F90?style=flat-square&logo=PyTorch&logoColor=white)](https://github.com/Woongi9/machine_translation)
+[![LSTM](https://img.shields.io/badge/LSTM-0F5F90?style=flat-square&logo=LSTM&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+[![RNN](https://img.shields.io/badge/RNN-0F5F90?style=flat-square&logo=RNN&logoColor=white)](https://github.com/Woongi9/machine_translation)
+
+
+#### DevOps
+[![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+
+
+#### etc.
+[![RasberryPi](https://img.shields.io/badge/RasberryPi-9F9590?style=flat-square&logo=RasberryPi&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
