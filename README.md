@@ -18,6 +18,19 @@
 - Machine Learning
 
 
+## 메인 프로젝트
+
+### 개인 프로젝트
+
+- [ItemManager](https://github.com/Woongi9/ItemManager) (Back-end)
+- [BG-info](https://github.com/Woongi9/DB_React-Project) (Back-end & Front-end)
+
+
+### 팀 프로젝트
+
+- [AutoEncoder_intruder_detection](https://github.com/Woongi9/autoencoder_intruder_detection) (DB관리와 딥러닝 역할)
+- [Machine_Translation](https://github.com/Woongi9/machine_translation) (딥러닝과 데이터 가공 역할)
+
 
 ### _*Skills*_
 
