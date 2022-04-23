@@ -79,6 +79,6 @@
 [![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)](https://github.com/Woongi9)
 
 
-##Algorythm
+## Algorythm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/woongi9/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woongi9)](https://solved.ac/woongi9)
