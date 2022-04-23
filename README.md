@@ -9,13 +9,14 @@
 >
 >새로운 기술에 관심이 많고, 시도 해보는 것을 좋아합니다.
 
+#
 
 #### Interests
 
 - ✨BackEnd✨
 - FrontEnd
 - Machine Learning
-
+#
 
 ## 메인 프로젝트
 
@@ -30,6 +31,7 @@
 - [AutoEncoder_intruder_detection](https://github.com/Woongi9/autoencoder_intruder_detection) (DB관리와 딥러닝 역할)
 - [Machine_Translation](https://github.com/Woongi9/machine_translation) (딥러닝과 데이터 가공 역할)
 
+#
 
 ### _*Skills*_
 
@@ -75,3 +77,8 @@
 [![RasberryPi](https://img.shields.io/badge/RasberryPi-9F9590?style=flat-square&logo=RasberryPi&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![C](https://img.shields.io/badge/C-9F9590?style=flat-square&logo=C&logoColor=white)](https://github.com/Woongi9)
 [![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)](https://github.com/Woongi9)
+
+
+##Algorythm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/woongi9/)
