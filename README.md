@@ -39,24 +39,26 @@
 #### ✨_BackEnd_✨
 
 [![Java](https://img.shields.io/badge/Java-05959F?style=flat-square&logo=Java&logoColor=white)](https://github.com/Woongi9/Algorythm_)
-[![Spring](https://img.shields.io/badge/Spring-05959F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
-[![THYMELEAF](https://img.shields.io/badge/THYMELEAF-05959F?style=flat-square&logo=THYMELEAF&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
-[![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
-[![MySQL](https://img.shields.io/badge/MySQL-05959F?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![H2](https://img.shields.io/badge/H2-05959F?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![Spring](https://img.shields.io/badge/Spring-05959F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-05959F?style=flat-square&logo=SpringSecurity&logoColor=white)](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)
+[![THYMELEAF](https://img.shields.io/badge/THYMELEAF-05959F?style=flat-square&logo=THYMELEAF&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![Querydsl](https://img.shields.io/badge/Querydsl-05959F?style=flat-square&logo=Querydsl&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![JPQL](https://img.shields.io/badge/JPQL-05959F?style=flat-square&logo=JPQL&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![H2](https://img.shields.io/badge/H2-05959F?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
 #### _FrontEnd_
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F5909F?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F5909F?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![HTML](https://img.shields.io/badge/HTML-F5909F?style=flat-square&logo=HTML&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
 [![CSS](https://img.shields.io/badge/CSS-F5909F?style=flat-square&logo=CSS&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-F5909F?style=flat-square&logo=BOOTSTRAP&logoColor=white)](https://github.com/Woongi9/springmvc_practice)
+[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-F5909F?style=flat-square&logo=BOOTSTRAP&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![JSON](https://img.shields.io/badge/JSON-F5909F?style=flat-square&logo=JSON&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
 [![React](https://img.shields.io/badge/React-F5909F?style=flat-square&logo=React&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![jQuery](https://img.shields.io/badge/jQuery-F5909F?style=flat-square&logo=jQuery&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
 [![PHP](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=PHP&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
+[![Ajax](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=Ajax&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
 #### Machine Learning
