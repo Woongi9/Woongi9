@@ -22,6 +22,7 @@
 
 ### 개인 프로젝트
 
+- [MovieReviewCommunity](https://github.com/Woongi9/MovieReviewCommunity) (Back-end)
 - [ItemManager](https://github.com/Woongi9/ItemManager) (Back-end)
 - [BG-info](https://github.com/Woongi9/DB_React-Project) (Back-end & Front-end)
 
