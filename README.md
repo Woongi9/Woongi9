@@ -56,8 +56,6 @@
 [![CSS](https://img.shields.io/badge/CSS-F5909F?style=flat-square&logo=CSS&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
 [![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-F5909F?style=flat-square&logo=BOOTSTRAP&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![JSON](https://img.shields.io/badge/JSON-F5909F?style=flat-square&logo=JSON&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![React](https://img.shields.io/badge/React-F5909F?style=flat-square&logo=React&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![PHP](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=PHP&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
 [![Ajax](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=Ajax&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
@@ -72,8 +70,12 @@
 [![RNN](https://img.shields.io/badge/RNN-0F5F90?style=flat-square&logo=RNN&logoColor=white)](https://github.com/Woongi9/machine_translation)
 
 
-#### DevOps
+#### DevOps & Infra
 [![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
+[![AWS_EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=AWS_EC2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![AWS_RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=AWS_RDS&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+
+
 
 
 #### etc.
