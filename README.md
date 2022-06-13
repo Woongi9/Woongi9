@@ -46,7 +46,6 @@
 [![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![Querydsl](https://img.shields.io/badge/Querydsl-05959F?style=flat-square&logo=Querydsl&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![JPQL](https://img.shields.io/badge/JPQL-05959F?style=flat-square&logo=JPQL&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![H2](https://img.shields.io/badge/H2-05959F?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
 #### _FrontEnd_
@@ -72,14 +71,14 @@
 
 #### DevOps & Infra
 [![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![AWS_EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=AWS_EC2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![AWS_RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=AWS_RDS&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![H2](https://img.shields.io/badge/H2-9F9590?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=EC2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=RDS&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
 
 
 #### etc.
-[![RasberryPi](https://img.shields.io/badge/RasberryPi-9F9590?style=flat-square&logo=RasberryPi&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![C](https://img.shields.io/badge/C-9F9590?style=flat-square&logo=C&logoColor=white)](https://github.com/Woongi9)
 [![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)](https://github.com/Woongi9)
 
