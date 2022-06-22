@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=진웅%20Git&fontSize=90)
 
 
-## 반갑습니다.
+##   :wave: :smile: 반갑습니다.
 
-### _About Me_
+#### _About Me_
 
 > 기술로 세상을 널리 이롭게 만들고자 하는 백엔드 개발자 지망생입니다.
 >
