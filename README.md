@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=진웅%20Git&fontSize=90)
 
 
-## 방문해주셔서 감사합니다.
+## 반갑습니다.
 
-### _열정! 열정! 열정!_
+### _About Me_
 
 > 컴퓨터 공학 전공
 >
@@ -20,16 +20,16 @@
 - Machine Learning
 
 
-## 메인 프로젝트
+## Project
 
-### 개인 프로젝트
+### Personal
 
 - [MovieReviewCommunity](https://github.com/Woongi9/MovieReviewCommunity) (Back-end)
 - [ItemManager](https://github.com/Woongi9/ItemManager) (Back-end)
 - [BG-info](https://github.com/Woongi9/DB_React-Project) (Back-end & Front-end)
 
 
-### 팀 프로젝트
+### Team
 
 - [AutoEncoder_intruder_detection](https://github.com/Woongi9/autoencoder_intruder_detection) (DB관리와 딥러닝 역할)
 - [Machine_Translation](https://github.com/Woongi9/machine_translation) (딥러닝과 데이터 가공 역할)
