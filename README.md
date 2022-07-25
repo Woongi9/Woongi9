@@ -58,17 +58,6 @@
 [![Ajax](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=Ajax&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
-#### Machine Learning
-
-[![Python](https://img.shields.io/badge/Python-0F5F90?style=flat-square&logo=Python&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-0F5F90?style=flat-square&logo=Matplotlib&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![Pandas](https://img.shields.io/badge/Pandas-0F5F90?style=flat-square&logo=Pandas&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-0F5F90?style=flat-square&logo=Tensorflow&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0F5F90?style=flat-square&logo=PyTorch&logoColor=white)](https://github.com/Woongi9/machine_translation)
-[![LSTM](https://img.shields.io/badge/LSTM-0F5F90?style=flat-square&logo=LSTM&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![RNN](https://img.shields.io/badge/RNN-0F5F90?style=flat-square&logo=RNN&logoColor=white)](https://github.com/Woongi9/machine_translation)
-
-
 #### DevOps & Infra
 [![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![H2](https://img.shields.io/badge/H2-9F9590?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
@@ -83,6 +72,6 @@
 [![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)](https://github.com/Woongi9)
 
 
-## Algorythm
+## Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woongi9)](https://solved.ac/woongi9)
