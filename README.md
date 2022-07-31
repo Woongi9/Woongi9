@@ -59,11 +59,15 @@
 [![Ajax](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=Ajax&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
-#### DevOps & Infra
+#### DB & Infra
 [![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![H2](https://img.shields.io/badge/H2-9F9590?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=EC2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=RDS&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![MySQL](https://img.shields.io/badge/MySQL-9F9590?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=EC2&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=RDS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-9F9590?style=flat-square&logo=S3&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-9F9590?style=flat-square&logo=CodeDeploy&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+
 
 
 
