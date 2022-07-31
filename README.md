@@ -5,9 +5,9 @@
 
 #### _About Me_
 
-> 기술로 세상을 널리 이롭게 만들고자 하는 백엔드 개발자 지망생입니다.
+> 백엔드 개발자 지망생입니다.
 >
-> 새로운 기술에 관심이 많고, 시도 해보는 것을 좋아합니다.
+> 새로운 기술에 관심이 많고, 다양한 시도, 도전 해보고 싶습니다.
 
 #
 
@@ -22,6 +22,7 @@
 
 ### Personal
 
+- [Mini-Scheduler](https://github.com/Woongi9/mini-scheduler)(Back-end, Infra)
 - [MovieReviewCommunity](https://github.com/Woongi9/MovieReviewCommunity) (Back-end)
 - [ItemManager](https://github.com/Woongi9/ItemManager) (Back-end)
 - [BG-info](https://github.com/Woongi9/DB_React-Project) (Back-end & Front-end)
