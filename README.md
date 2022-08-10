@@ -79,4 +79,4 @@
 
 ## Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woongi9)](https://solved.ac/woongi9/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woongi9)](https://solved.ac/woongi9)
