@@ -3,20 +3,30 @@
 
 ##   :wave: :smile: 반갑습니다.
 
-#### _About Me_
+### _About Me_
 
 > 백엔드 개발자 지망생입니다.
 >
-> 새로운 기술에 관심이 많고, 다양한 시도, 도전 해보고 싶습니다.
+> 몰두를 즐기고, 성장하고 싶은 개발자입니다.
+>
+> 새로운 기술에 관심이 많고, 다양한 도전 해보고 싶습니다.
 
-#
 
-#### Interests
+---
+
+### Portfolio
+
+https://woongi9.github.io/web-porfolio/
+
+---
+
+### Interests
 
 - ✨BackEnd✨
 - FrontEnd
 - Machine Learning
 
+---
 
 ## Project
 
@@ -28,12 +38,13 @@
 - [BG-info](https://github.com/Woongi9/DB_React-Project) (Back-end & Front-end)
 
 
+
 ### Team
 
 - [AutoEncoder_intruder_detection](https://github.com/Woongi9/autoencoder_intruder_detection) (DB관리와 딥러닝 역할)
 - [Machine_Translation](https://github.com/Woongi9/machine_translation) (딥러닝과 데이터 가공 역할)
 
-#
+---
 
 ### _*Skills*_
 
@@ -71,11 +82,11 @@
 
 
 
-
 #### etc.
 [![C](https://img.shields.io/badge/C-9F9590?style=flat-square&logo=C&logoColor=white)](https://github.com/Woongi9)
 [![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)](https://github.com/Woongi9)
 
+---
 
 ## Algorithm
 
