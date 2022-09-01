@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=진웅%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=코드%20박물관&fontSize=70)
 
 
 ##   :wave: :smile: 반갑습니다.
