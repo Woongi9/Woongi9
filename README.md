@@ -90,4 +90,4 @@ https://woongi9.github.io/web-porfolio/
 
 ## Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woongi9)](https://solved.ac/woongi9)
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/79649052/188319902-3c96c813-a918-4e2e-abd8-909a20536643.png">
