@@ -61,16 +61,6 @@
 [![JPQL](https://img.shields.io/badge/JPQL-05959F?style=flat-square&logo=JPQL&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
-#### _FrontEnd_
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F5909F?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![HTML](https://img.shields.io/badge/HTML-F5909F?style=flat-square&logo=HTML&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![CSS](https://img.shields.io/badge/CSS-F5909F?style=flat-square&logo=CSS&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-F5909F?style=flat-square&logo=BOOTSTRAP&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![JSON](https://img.shields.io/badge/JSON-F5909F?style=flat-square&logo=JSON&logoColor=white)](https://github.com/Woongi9/DB_React-Project)
-[![Ajax](https://img.shields.io/badge/PHP-F5909F?style=flat-square&logo=Ajax&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-
-
 #### DB & Infra
 [![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
 [![H2](https://img.shields.io/badge/H2-9F9590?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
