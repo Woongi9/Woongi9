@@ -24,8 +24,7 @@
 ### Interests
 
 - ✨BackEnd✨
-- FrontEnd
-- Machine Learning
+- Infra
 
 ---
 
