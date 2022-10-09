@@ -35,7 +35,7 @@
 - [Mini-Scheduler](https://github.com/Woongi9/mini-scheduler)(Back-end, Infra)
 - [MovieReviewCommunity](https://github.com/Woongi9/MovieReviewCommunity) (Back-end)
 - [ItemManager](https://github.com/Woongi9/ItemManager) (Back-end)
-- [BG-info](https://github.com/Woongi9/DB_React-Project) (Back-end & Front-end)
+- [BG-info](https://github.com/Woongi9/DB_React-Project) (DB)
 
 
 
