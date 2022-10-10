@@ -80,4 +80,4 @@
 
 ## Algorithm
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/79649052/188319902-3c96c813-a918-4e2e-abd8-909a20536643.png">
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/79649052/194893679-d126d40f-f9c4-407c-bd39-b1b25b69ed6a.png">
