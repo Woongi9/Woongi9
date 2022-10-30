@@ -70,12 +70,6 @@
 [![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-9F9590?style=flat-square&logo=CodeDeploy&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
 
 
-
-
-#### etc.
-[![C](https://img.shields.io/badge/C-9F9590?style=flat-square&logo=C&logoColor=white)](https://github.com/Woongi9)
-[![C++](https://img.shields.io/badge/C++-9F9590?style=flat-square&logo=C++&logoColor=white)](https://github.com/Woongi9)
-
 ---
 
 ## Algorithm
