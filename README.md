@@ -57,7 +57,6 @@
 [![THYMELEAF](https://img.shields.io/badge/THYMELEAF-05959F?style=flat-square&logo=THYMELEAF&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![Querydsl](https://img.shields.io/badge/Querydsl-05959F?style=flat-square&logo=Querydsl&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![JPQL](https://img.shields.io/badge/JPQL-05959F?style=flat-square&logo=JPQL&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
 #### DB & Infra
