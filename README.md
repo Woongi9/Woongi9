@@ -5,14 +5,11 @@
 
 ### _About Me_
 
-> 백엔드 개발자 지망생입니다.
->
-> 문제를 찾아 몰두하여 올바른 분석으로 구체적으로 해결을 통해 성장하고 싶은 개발자입니다.
->
-> 새로운 기술에 관심이 많고, 다양한 도전 해보고 싶습니다.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woongi9&show_icons=true&theme=radical)
 
-팀의 성장까지 도울 수 있는 개발자가 되기 위해 CS와 자료구조, 알고리즘, OOP 공부하는 [기술 블로그](https://velog.io/@woongi9)를 운영 중이며, [1일 1 알고리즘 문제 풀기 진행](https://github.com/Woongi9/Algorithm) 중입니다.
-
+> 주니어 백엔드 개발자입니다.
+> 
+> [기술 블로그](https://velog.io/@woongi9)를 운영 중입니다.
 ---
 
 ### 이력서
