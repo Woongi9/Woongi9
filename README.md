@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=코드%20박물관&fontSize=70)
-
-
 ##   :wave: :smile: 반갑습니다.
 
 ### _About Me_
@@ -18,47 +15,24 @@
 
 ---
 
-### Interests
-
-- ✨BackEnd✨
-- Infra
-
----
-
 ## Project
-
-### Personal
 
 - [Mini-Scheduler](https://github.com/Woongi9/mini-scheduler)(Back-end, Infra)
 - [MovieReviewCommunity](https://github.com/Woongi9/MovieReviewCommunity) (Back-end)
-- [ItemManager](https://github.com/Woongi9/ItemManager) (Back-end)
-- [BG-info](https://github.com/Woongi9/DB_React-Project) (DB)
 
-
-
-### Team
-
-- [AutoEncoder_intruder_detection](https://github.com/Woongi9/autoencoder_intruder_detection) (DB관리와 딥러닝 역할)
-- [Machine_Translation](https://github.com/Woongi9/machine_translation) (딥러닝과 데이터 가공 역할)
-
----
 
 ### _*Skills*_
 
 #### ✨_BackEnd_✨
 
 [![Java](https://img.shields.io/badge/Java-05959F?style=flat-square&logo=Java&logoColor=white)](https://github.com/Woongi9/Algorythm_)
-[![Spring](https://img.shields.io/badge/Spring-05959F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-05959F?style=flat-square&logo=SpringSecurity&logoColor=white)](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)
-[![THYMELEAF](https://img.shields.io/badge/THYMELEAF-05959F?style=flat-square&logo=THYMELEAF&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![Querydsl](https://img.shields.io/badge/Querydsl-05959F?style=flat-square&logo=Querydsl&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 
 
 #### DB & Infra
-[![Firebase](https://img.shields.io/badge/Firebase-9F9590?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/Woongi9/autoencoder_intruder_detection)
-[![H2](https://img.shields.io/badge/H2-9F9590?style=flat-square&logo=H2&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![MySQL](https://img.shields.io/badge/MySQL-9F9590?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=EC2&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
 [![AWS RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=RDS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
