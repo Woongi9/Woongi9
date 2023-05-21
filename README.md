@@ -9,11 +9,6 @@
 > [기술 블로그](https://velog.io/@woongi9)를 운영 중입니다.
 ---
 
-### 이력서
-
-[문제를 탐구하는 개발자](https://www.notion.so/759d0e69f4a642a7b259e78e2da5622f)
-
----
 
 ## Project
 
@@ -30,14 +25,15 @@
 [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-05959F?style=flat-square&logo=SpringSecurity&logoColor=white)](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)
 [![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
 [![Querydsl](https://img.shields.io/badge/Querydsl-05959F?style=flat-square&logo=Querydsl&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
+[![JUnit5](https://img.shields.io/badge/JUnit5-05959F?style=flat-square&logo=JUnit5&logoColor=white)](https://github.com/Woongi9)
 
 
 #### DB & Infra
 [![MySQL](https://img.shields.io/badge/MySQL-9F9590?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
-[![AWS EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=EC2&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
-[![AWS RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=RDS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
-[![AWS S3](https://img.shields.io/badge/AWS_S3-9F9590?style=flat-square&logo=S3&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
-[![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-9F9590?style=flat-square&logo=CodeDeploy&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS_EC2](https://img.shields.io/badge/AWS_EC2-9F9590?style=flat-square&logo=AWS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS_RDS](https://img.shields.io/badge/AWS_RDS-9F9590?style=flat-square&logo=AWS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS_S3](https://img.shields.io/badge/AWS_S3-9F9590?style=flat-square&logo=AWS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+[![AWS_CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-9F9590?style=flat-square&logo=AWS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
 
 
 ---
