@@ -12,15 +12,7 @@
 
 ### _*Skills*_
 
-#### ✨_BackEnd_✨
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
 
-[![Java](https://img.shields.io/badge/Java-05959F?style=flat-square&logo=Java&logoColor=white)](https://github.com/Woongi9/Algorythm_)
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-05959F?style=flat-square&logo=SpringSecurity&logoColor=white)](https://img.shields.io/badge/SpringBoot-05959F?style=flat-square&logo=SpringBoot&logoColor=white)
-[![JPA](https://img.shields.io/badge/JPA-05959F?style=flat-square&logo=JPA&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-[![Querydsl](https://img.shields.io/badge/Querydsl-05959F?style=flat-square&logo=Querydsl&logoColor=white)](https://github.com/Woongi9/MovieReviewCommunity)
-
-
-#### DB & Infra
-[![MySQL](https://img.shields.io/badge/MySQL-9F9590?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
-[![AWS](https://img.shields.io/badge/AWS-9F9590?style=flat-square&logo=AWS&logoColor=white)](https://github.com/Woongi9/mini-scheduler)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> 
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AMAZONAWS&logoColor=white">
