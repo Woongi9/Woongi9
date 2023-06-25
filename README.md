@@ -2,11 +2,8 @@
 
 ### _About Me_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woongi9&show_icons=true&theme=radical)
-
 > 주니어 백엔드 개발자입니다.
-> 
-> [기술 블로그](https://velog.io/@woongi9)를 운영 중입니다.
+
 ---
 
 
