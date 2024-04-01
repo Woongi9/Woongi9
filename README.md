@@ -2,14 +2,15 @@
 
 ### _About Me_
 
-> 주니어 백엔드 개발자입니다.
+> 잘 해보고 싶습니다.
 
 ---
 
 
 ### _*Skills*_
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
+![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![awsdynamodb](https://www.codenary.co.kr/widget/github-techstack/api?name=awsdynamodb) ![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) 
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> 
- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AMAZONAWS&logoColor=white">
+### _*History*_
+[![Github](https://www.codenary.co.kr/widget/github/api?username=엄행어사)](https://www.codenary.co.kr/user-profile/detail/엄행어사?github_ride=true&utm_source=github)
+
